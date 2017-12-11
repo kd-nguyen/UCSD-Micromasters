@@ -2,3 +2,6 @@
 1-Python_for_data_science/database.sqlite
 *.csv
 1-Python_for_data_science/5-Visualization/database.sqlite
+*.sqlite
+*.pdf
+*.pptx
